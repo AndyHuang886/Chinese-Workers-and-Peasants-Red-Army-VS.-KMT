@@ -1,2 +1,6 @@
-# Chinese-Workers-and-Peasants-Red-Army-VS.-KMT
-A Tower Defence Game. Against the backdrop of the Long March in China.
+这是一个中国小孩开发的游戏，持续更新中。
+
+目前$2.4.1$的更早版本归属于SendTail。
+
+## 更新日志
+v$2.4.1$ 加入了背景，优化人物模型。
